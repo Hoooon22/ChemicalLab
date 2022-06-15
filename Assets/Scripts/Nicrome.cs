@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class Nicrome : MonoBehaviour
 {
-    int element = 0; // sample-coated element number - if it is 0, nothing.
-
     void Start()
     {
 
