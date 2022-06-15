@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - element
+  - Flame
+  - Nichrome
   layers:
   - Default
   - TransparentFX
